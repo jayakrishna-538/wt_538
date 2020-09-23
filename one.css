@@ -1,0 +1,50 @@
+body
+{
+background-color:lightgrey;
+}
+h1
+{
+text-align:center;
+background-color:black;
+color:white;
+font-family:algerian;
+}
+p
+{
+font-family:lucida calligraphy;
+}
+.border,th,td
+{
+border:3px solid black;
+border-collapse:collapse;
+}
+.border
+{
+width:77%;
+}
+th
+{
+background-color:lightpink;
+font-family:algerian
+}
+td
+{
+font-family:Courier New;
+text-align:center;
+}
+div
+{
+font-family:Elephant;
+}
+.float
+{
+float:right;
+}
+.style
+{
+color:green;
+font-family:Courier New;
+font-size:25px;
+}
+
+
